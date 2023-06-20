@@ -1,0 +1,4 @@
+Number of fence panels needed 0
+Number of fence panels needed 3
+Number of fence panels needed is 1
+Number of fence panels needed is 2
